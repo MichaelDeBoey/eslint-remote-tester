@@ -42,7 +42,7 @@
         "ink": "^3.0.8",
         "object-hash": "^2.1.1",
         "react": ">=16.8.0",
-        "simple-git": "^2.20.1"
+        "simple-git": "^3.7.0"
     },
     "devDependencies": {
         "@commitlint/cli": "^13.1.0",
